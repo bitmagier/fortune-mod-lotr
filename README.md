@@ -1,7 +1,7 @@
-# Lord of the Rings fortune mod
+# "Lord of the Rings" fortune mod
 
 This is a fine collection of quotes from "Lord of the Rings".
-Feel welcome to extend it with a pull request.
+Please feel welcome to extend it via a pull request.
 
 **Perspective**:  permanently growing
 
