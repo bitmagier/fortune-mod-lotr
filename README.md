@@ -1,4 +1,4 @@
-# "Lord of the Rings" fortune mod
+# "Lord of the Rings" fortune cookies
 
 This is a fine collection of quotes from "Lord of the Rings".
 Please feel welcome to extend it via a pull request.
