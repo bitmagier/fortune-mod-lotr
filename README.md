@@ -3,7 +3,7 @@
 This is a fine collection of quotes from "Lord of the Rings".
 Please feel welcome to extend it via a pull request.
 
-**Perspective**:  permanently growing
+**Perspective**:  growing
 
 
 Setup (for GNU/Linux):
@@ -20,10 +20,3 @@ The last step is to configure *fortune* to actually use the LOTR fortune mod.
   An of course it is possible to use it together with other fortune mods with a line like this one:<br/>
   `fortune 75% lotr 18% de/zitate 7% pratchett`
 
-Build
--
-**Requirements**: fortune, sbt
-
-**build:** `sbt run`
-
-The resulting *fortune* mod files are written into folder 'mod'.
