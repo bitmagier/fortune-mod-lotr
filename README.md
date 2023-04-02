@@ -1,10 +1,8 @@
 # "Lord of the Rings" fortune cookies
 
-This is a fine collection of quotes from "Lord of the Rings".
-Please feel welcome to extend it via a pull request.
+This is the beginning of a collection of quotes from "Lord of the Rings".
 
-**Perspective**:  growing
-
+Pull requests are welcome.
 
 Setup (for GNU/Linux):
 -
